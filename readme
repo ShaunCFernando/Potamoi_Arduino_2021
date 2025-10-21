@@ -1,1 +1,4 @@
 Potamoi - water quality monitoring device built using Arduino. This repo has all my software needed for Potamoi to run.
+
+Some of the Arduino libraries were not committed as they were from the software bundle. I included third party libraries I downloaded to my local machine to build and improve my device.
+
