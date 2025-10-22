@@ -1,4 +1,6 @@
-Potamoi - water quality monitoring device built using Arduino. This repo has all my software needed for Potamoi to run.
+Potamoi is an innovative water quality monitoring device that I engineered from the ground up using Arduino. In addition, I developed a companion mobile application, myH2O, to log data in real time and store it on Airtable, enabling cloud-based access and visualization through a user-friendly interface.
 
-Some of the Arduino libraries were not committed as they were from the software bundle. I included third party libraries I downloaded to my local machine to build and improve my device.
+This project utilizes more than 100 Arduino library components, which were not included in the repository since they are freely available as part of the standard software package. I also integrated additional third-party libraries locally to enhance the device’s capabilities and performance.
+
+In 2024–2026, the device is scheduled for industrialization and disctribute across the nation and world.
 
